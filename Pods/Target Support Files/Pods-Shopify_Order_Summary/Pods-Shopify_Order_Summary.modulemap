@@ -1,0 +1,6 @@
+framework module Pods_Shopify_Order_Summary {
+  umbrella header "Pods-Shopify_Order_Summary-umbrella.h"
+
+  export *
+  module * { export * }
+}
